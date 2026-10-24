@@ -1,0 +1,6 @@
+{
+  "name": "Melli — Master 3D Artistry",
+  "description": "Master 3D animation in just three days. A scroll-driven 3D honeybee landing page experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
